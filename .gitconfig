@@ -1,0 +1,8 @@
+[core]
+	# npm install -g c9
+	editor = c9 open --wait
+[user]
+	email = will.maier@bbva.com
+	name = Will Maier
+[credential]
+	helper = cache --timeout=86400
